@@ -1,5 +1,5 @@
-# SIM7080X for Arduino
-SIM7080X library for Arduino, and Thingsboard
+# SIM7080X for Arduino & ThingsBoard
+SIM7080X library for Arduino, and ThingsBoard
 
 
 이 라이브러리는 CAT-M1, NB-IoT를 지원하는 SIM7080X 모듈의 Arduino 라이브러리입니다.
